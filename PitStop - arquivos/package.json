@@ -1,0 +1,17 @@
+{
+  "name": "pitstop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.8.2"
+  },
+  "devDependencies": {
+    "googleapis": "^122.0.0"
+  }
+}

@@ -1,0 +1,11 @@
+ # Ignorar credenciais sensíveis
+PitStop - arquivos/pitstophcc-c476cb14cda9.json
+
+# Ignorar diretórios de build
+/build
+/dist
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
